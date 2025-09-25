@@ -19,6 +19,11 @@ epoch = 2.5
 path = 'contracts/store_with_confirmation_steps.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.two_factor_withdrawal_wallet]
+path = 'contracts/two_factor_withdrawal_wallet.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
