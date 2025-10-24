@@ -20,6 +20,11 @@ path = 'contracts/multi_send_with_retry_logic.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.storage_with_access_logs]
+path = 'contracts/storage_with_access_logs.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.store_with_confirmation_steps]
 path = 'contracts/store_with_confirmation_steps.clar'
 clarity_version = 2
